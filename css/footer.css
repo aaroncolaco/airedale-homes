@@ -1,0 +1,22 @@
+.footer {
+	background-color: #222222;
+	min-height: 20%;
+}
+
+.footer .container {
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+
+.footer p {
+	color: #fee252;
+	text-align: center;
+}
+
+.footer a {
+	color: #ffffff;
+}
+
+.footer a:hover {
+	color: yellow;
+}
