@@ -26,6 +26,9 @@
 	background-color: transparent;
 	font-size: 1.2em;
 }
+.jumbotron .btn-default:hover {
+	background-color: #5a5aad;
+}
 
 
 .introduction {
@@ -53,6 +56,17 @@
 	font-size: 1.5em;
 }
 
+.introduction .btn-primary {
+	color: #000000;
+	background-color: transparent;
+	font-size: 1.2em;
+	border-color: #000000;
+}
+.introduction .btn-primary:hover {
+	background-color: #5a5aad;
+}
+
+
 .recovery {
 	background-image:url('/images/lonely.jpg');
 	/*background-color: #666666;*/
@@ -77,6 +91,16 @@
 .recovery p {
 	color: #000000;
 	font-size: 1.5em;
+}
+
+.recovery .btn-default {
+	color: #000000;
+	background-color: transparent;
+	font-size: 1.2em;
+	border-color: #000000;
+}
+.recovery .btn-default:hover {
+	background-color: #5a5aad;
 }
 
 
@@ -110,4 +134,7 @@
 	color: #ffffff;
 	background-color: transparent;
 	font-size: 1.2em;
+}
+.our-role .btn-default:hover {
+	background-color: #5a5aad;
 }
