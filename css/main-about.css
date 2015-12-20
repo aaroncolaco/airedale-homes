@@ -1,0 +1,33 @@
+.about {
+	background-image:url('/images/house8.jpg'); /*house3, house4, house1, house8,*/
+	min-height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0%;
+	/*background-attachment: fixed;*/
+}
+
+.about .container {
+	position: relative;
+	padding-top: 10%;
+	width: 80%;
+	padding-bottom: 5%;
+}
+
+.about h1 {
+	color: #000000;
+}
+
+.about p {
+	color: #000000;
+	font-size: 1.5em;
+}
+
+.about .btn-default {
+	color: #ffffff;
+	background-color: transparent;
+	font-size: 1.2em;
+}
+.about .btn-default:hover {
+	background-color: #5a5aad;
+}
