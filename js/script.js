@@ -12,4 +12,8 @@ $(document).ready(function(){
 				}
 		});
 	}
+
+	$('.navbar-toggle').click(function () {
+		$(".navbar-default").css('background-color', '#222222');
+	});
 });
