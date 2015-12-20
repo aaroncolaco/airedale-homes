@@ -1,0 +1,47 @@
+.contact {
+	background-image:url('/images/house2.jpg');
+	min-height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0%;
+}
+
+.contact .container {
+	position: relative;
+	padding-top: 5%;
+}
+
+.contact h1 {
+	color: #ffffff;
+	font-size: 3em;  
+}
+
+.contact p {
+	color: #ffffff;
+	font-size: 1.5em;
+}
+
+.contact .form-inline .form-group input {
+    width: 160%;
+    margin-bottom: 5%;
+    background-color: transparent;
+    color: white;
+}
+
+.contact .form-inline .form-group textarea {
+    width: 122%;
+    margin-bottom: 5%;
+    background-color: transparent;
+    color: white;
+}
+
+.contact .btn-default {
+	color: #ffffff;
+	background-color: transparent;
+}
+
+
+.form-control::-webkit-input-placeholder { color: white; font-size: 1.2em; }
+.form-control:-moz-placeholder { color: white; font-size: 1.2em; }
+.form-control::-moz-placeholder { color: white; font-size: 1.2em; }
+.form-control:-ms-input-placeholder { color: white; font-size: 1.2em; }
