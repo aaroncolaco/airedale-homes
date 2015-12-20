@@ -1,5 +1,5 @@
 .jumbotron {
-	background-image:url('/images/house7.jpg');
+	background-image:url('/images/mobile/house7.jpg');
 	min-height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -29,7 +29,7 @@
 
 
 .introduction {
-	background-image:url('/images/alone.jpg');
+	background-image:url('/images/mobile/alone.jpg');
 	min-height: 100%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -45,16 +45,16 @@
 }
 
 .introduction h1 {
-	color: #ffffff;
+	color: #000000;
 }
 
 .introduction p {
-	color: #ffffff;
+	color: #000000;
 	font-size: 1.5em;
 }
 
 .recovery {
-	background-image:url('/images/lonely.jpg');
+	background-image:url('/images/mobile/lonely.jpg');
 	/*background-color: #666666;*/
 	min-height: 100%;
 	background-repeat: no-repeat;
@@ -81,7 +81,7 @@
 
 
 .our-role {
-	background-image:url('/images/house5.jpg');
+	background-image:url('/images/mobile/house5.jpg');
 	/*background-color: #666666;*/
 	min-height: 100%;
 	background-repeat: no-repeat;
