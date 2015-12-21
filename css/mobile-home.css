@@ -34,7 +34,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-bottom: 0%;
-	background-attachment: fixed;
+	/*background-attachment: fixed;*/
 }
 
 .introduction .container {
@@ -101,7 +101,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	margin-bottom: 0%;
-	background-attachment: fixed;
+	/*background-attachment: fixed;*/
 }
 
 .our-role .container {
