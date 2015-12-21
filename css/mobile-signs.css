@@ -1,0 +1,31 @@
+.signs {
+	background-image:url('/images/depression.jpg');
+	min-height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-bottom: 0%;
+}
+
+.signs .container {
+	position: relative;
+	padding-top: 10%;
+}
+
+.signs h1 {
+	color: #000000;
+	font-size: 4em;  
+}
+
+.signs p {
+	color: #000000;
+	font-size: 1.5em;
+}
+
+.signs .btn-default {
+	color: #ffffff;
+	background-color: transparent;
+	font-size: 1.2em;
+}
+.signs .btn-default:hover {
+	background-color: #5a5aad;
+}
