@@ -40,6 +40,20 @@
 	background-color: transparent;
 }
 
+.contact .details h2 {
+	margin-top: 5%;
+	margin-bottom: 8%;
+	font-size: 2em;
+	color: white;
+}
+
+.contact .details a {
+	color: white;
+}
+:hover{
+	color: white;
+}
+
 
 .form-control::-webkit-input-placeholder { color: white; font-size: 1.2em; }
 .form-control:-moz-placeholder { color: white; font-size: 1.2em; }
